@@ -1,6 +1,7 @@
 # POKEFIGHT
 Pokemon API using PHP and Bootstrap (with french comments)
 
+I did it in class at La Passerelle school (Paris, FR). My teacher was Benoît Brice.
 
 # How does it works ?
 
