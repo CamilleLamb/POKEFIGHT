@@ -1,8 +1,6 @@
 # POKEFIGHT
 Pokemon API using PHP and Bootstrap (with french comments)
 
-I did it in class at La Passerelle school (Paris, FR). My teacher was Benoît Brice.
-
 # How does it works ?
 
 The program connects to a Pokemon Application Progamming Interface (API), which allows it to get all the the necessary informations about Pokemons.
